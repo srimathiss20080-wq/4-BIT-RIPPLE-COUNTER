@@ -57,3 +57,4 @@ endmodule
 
 
 **RESULTS**
+Thus,implemented 4 Bit Ripple Counter using verilog and validating their functionality using their functional tables
